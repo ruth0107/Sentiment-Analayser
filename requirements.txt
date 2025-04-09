@@ -1,0 +1,9 @@
+streamlit
+beautifulsoup4
+pandas
+nltk
+textblob
+scikit-learn
+matplotlib
+seaborn
+wordcloud
